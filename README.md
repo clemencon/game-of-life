@@ -1,6 +1,6 @@
-# Python Boiler Plate
+# Basic Game of Life
 
-**Minimal Python Poetry boiler plate**
+Python implementation as a test for using Python, Poetry, Pytest and Zed.
 
 Install dependencies:
 
